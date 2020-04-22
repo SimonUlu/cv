@@ -1,0 +1,25 @@
+.profilBild {
+  width: 20%;
+  border-radius: 50%;
+}
+
+col-1 {
+  width: 8.33%;
+}
+
+.tableCol {
+  padding: 0 10px;
+}
+
+label {
+  padding-top: 20px;
+  margin-top: 20px;
+}
+input {
+
+  margin-top: 20px;
+}
+
+textarea {
+  margin-top: 20px;
+}
